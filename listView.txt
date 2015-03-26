@@ -1,0 +1,1 @@
+List view in landscape and portrait mode.
